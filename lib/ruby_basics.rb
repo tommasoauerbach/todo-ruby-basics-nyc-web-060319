@@ -1,8 +1,8 @@
-def division(18, 3)
- 
+def division(42, 7)
+
 end
 
-def assign_variable(value)
+def assign_variable(Bob)
 
 end
 
