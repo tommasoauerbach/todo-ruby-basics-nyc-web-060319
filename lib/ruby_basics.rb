@@ -11,4 +11,5 @@ def argue(argument)
 end
 
 def greeting(name, mood)
+  puts "#{name}, #{mood}"
 end
