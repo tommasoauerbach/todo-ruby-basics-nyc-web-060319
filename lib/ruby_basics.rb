@@ -7,7 +7,7 @@ def assign_variable(name)
 end
 
 def argue(argument)
-   arugment
+   argument
 end
 
 def greeting(name, mood)
@@ -24,4 +24,4 @@ end
 
 def pizza_party(argument="cheese")
   argument
-end 
+end
