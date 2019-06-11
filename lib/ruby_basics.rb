@@ -14,6 +14,14 @@ def greeting(name, mood)
   puts "#{name}, #{mood}"
 end
 
-def return_a_value(phrase="nice")
-  phrase
+def return_a_value
+  "Nice"
 end
+
+def last_evaluated_value
+  "expert"
+end
+
+def pizza_party(argument="cheese")
+  argument
+end 
